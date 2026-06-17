@@ -1,5 +1,5 @@
 {
-  "version": "0.5.0",
-  "releaseNotes": "Fixed issue with Hardware Acceleration on devices without a dedicated GPU.",
-  "downloadUrl": "https://github.com/HarshaXR/Studeo./releases/download/Release/Studeo-Beta-0.3.0.Setup.exe"
+  "version": "0.6.0",
+  "releaseNotes": "Added a brand new OOBE experience for first time users of Studeo, and general improvements to the app.",
+  "downloadUrl": "https://github.com/HarshaXR/Studeo./releases/download/Release/Studeo-Beta-0.6.0.Setup.exe"
 }

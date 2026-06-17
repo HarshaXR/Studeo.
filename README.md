@@ -1,8 +1,8 @@
-<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/4bf4841a-1789-4ac3-905a-c2f7b32ed8c5" />
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/46ea1d8f-0b10-4a34-8a35-b73d3f6a78e8" />
+<div align="center">
 
 # Studeo
 
-<div align="center">
 
 ### Your Academic Workspace.
 
